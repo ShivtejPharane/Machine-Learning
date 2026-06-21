@@ -1,0 +1,62 @@
+[
+    {
+        "ID": 1,
+        "Name": "Aarav",
+        "Age": 21,
+        "City": "Pune"
+    },
+    {
+        "ID": 2,
+        "Name": "Diya",
+        "Age": 22,
+        "City": "Mumbai"
+    },
+    {
+        "ID": 3,
+        "Name": "Rohan",
+        "Age": 20,
+        "City": "Delhi"
+    },
+    {
+        "ID": 4,
+        "Name": "Sneha",
+        "Age": 23,
+        "City": "Bengaluru"
+    },
+    {
+        "ID": 5,
+        "Name": "Karan",
+        "Age": 24,
+        "City": "Hyderabad"
+    },
+    {
+        "ID": 6,
+        "Name": "Priya",
+        "Age": 21,
+        "City": "Chennai"
+    },
+    {
+        "ID": 7,
+        "Name": "Vikram",
+        "Age": 25,
+        "City": "Kolkata"
+    },
+    {
+        "ID": 8,
+        "Name": "Ananya",
+        "Age": 22,
+        "City": "Jaipur"
+    },
+    {
+        "ID": 9,
+        "Name": "Rahul",
+        "Age": 23,
+        "City": "Ahmedabad"
+    },
+    {
+        "ID": 10,
+        "Name": "Meera",
+        "Age": 20,
+        "City": "Nagpur"
+    }
+]
