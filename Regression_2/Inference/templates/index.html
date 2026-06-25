@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Regression</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+</head>
+
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center mb-4">GPA Prediction</h1>
+        <form id="./predict" class="mb-3" action="/predict" method="POST">
+            <div class="mb-3">
+                <label for="" >Enter SAT Score:</label>
+                <input name="sat_score" type="text" class="form-control" />
+            </div>
+            <button type="submit" class="btn btn-primary">Predict GPA</button>
+        </form>
+        <div id="result" class="alert alert-info d-none"></div>
+    </div>
+</body>
+</html>
